@@ -2,6 +2,8 @@ import os
 from dotenv import load_dotenv
 from openai import OpenAI
 
+# 수정
+
 # 🔹 .env 파일 로드
 load_dotenv()
 
