@@ -3,6 +3,7 @@ from dotenv import load_dotenv
 from openai import OpenAI
 
 # 수정
+# 수정-소연
 
 # 🔹 .env 파일 로드
 load_dotenv()
